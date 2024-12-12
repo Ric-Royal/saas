@@ -1,0 +1,994 @@
+{
+  "missing_in_template": [
+    "T",
+    "FLASK_DEBUG",
+    "REDIS_URL",
+    "D0",
+    "AWS_SECRET_ACCESS_KEY",
+    "AWS_ACCESS_KEY_ID",
+    "Y",
+    "OLLAMA_BASE_URL",
+    "POSTGRES_URI",
+    "SERVICE_IMAGE",
+    "FLASK_PORT",
+    "SECRET_KEY",
+    "NEO4J_URI",
+    "NEO4J_PASSWORD",
+    "NEXT_PUBLIC_API_URL",
+    "FLASK_HOST",
+    "AWS_REGION",
+    "NEO4J_USER",
+    "OLLAMA_MODEL_NAME",
+    "HOST",
+    "BASE_URL",
+    "LOG_FILE",
+    "OLLAMA_API_KEY",
+    "VAR",
+    "DATABASE_URL"
+  ],
+  "unused_in_template": [
+    "REDIS_DB",
+    "FRONTEND_URL",
+    "SMTP_PORT",
+    "MAX_CONCURRENT_SCRAPES",
+    "API_BASE_URL",
+    "MIN_CONFIDENCE_SCORE",
+    "BILL_HISTORY_DAYS",
+    "SPACY_MODEL",
+    "BILL_UPDATE_INTERVAL",
+    "SMTP_USER",
+    "ENABLE_METRICS",
+    "ENABLE_FILE_LOGGING",
+    "TWILIO_ACCOUNT_SID",
+    "CORS_ORIGINS",
+    "SSL_CERT_PATH",
+    "PROMETHEUS_PORT",
+    "SMTP_HOST",
+    "LOG_FILE_PATH",
+    "TWILIO_AUTH_TOKEN",
+    "SSL_DH_PARAM_PATH",
+    "POSTGRES_SERVER",
+    "RATE_LIMIT_MAX_REQUESTS",
+    "ACCESS_TOKEN_EXPIRE_MINUTES",
+    "TWILIO_WHATSAPP_NUMBER",
+    "SMTP_FROM_EMAIL",
+    "RATE_LIMIT_WINDOW_MS",
+    "SMTP_PASSWORD",
+    "SSL_KEY_PATH"
+  ],
+  "variables": {
+    "NODE_ENV": [
+      {
+        "service": "root",
+        "file": "frontend\\.next\\server\\app\\page.js",
+        "line": 941,
+        "required": false,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "frontend\\.next\\server\\app\\page.js",
+        "line": 1513,
+        "required": false,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "frontend\\.next\\static\\chunks\\main-app.js",
+        "line": 138,
+        "required": false,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "frontend\\.next\\static\\chunks\\app\\layout.js",
+        "line": 280,
+        "required": false,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "infrastructure\\security\\middleware\\security.ts",
+        "line": 12,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "infrastructure\\security\\middleware\\security.ts",
+        "line": 128,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\index.js",
+        "line": 24,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "D0": [
+      {
+        "service": "root",
+        "file": "frontend\\.next\\static\\chunks\\polyfills.js",
+        "line": 1,
+        "required": false,
+        "default_value": null
+      }
+    ],
+    "T": [
+      {
+        "service": "root",
+        "file": "frontend\\.next\\types\\app\\layout.ts",
+        "line": 70,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "frontend\\.next\\types\\app\\page.ts",
+        "line": 70,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "Y": [
+      {
+        "service": "root",
+        "file": "infrastructure\\backup\\backup-cronjob.yml",
+        "line": 28,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "SERVICE_IMAGE": [
+      {
+        "service": "root",
+        "file": "infrastructure\\k8s\\base\\deployment-strategy.yml",
+        "line": 22,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "BASE_URL": [
+      {
+        "service": "root",
+        "file": "infrastructure\\performance\\load-test.js",
+        "line": 22,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "infrastructure\\performance\\load-test.js",
+        "line": 31,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "infrastructure\\performance\\load-test.js",
+        "line": 40,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "REDIS_HOST": [
+      {
+        "service": "root",
+        "file": "infrastructure\\security\\middleware\\security.ts",
+        "line": 9,
+        "required": false,
+        "default_value": null
+      }
+    ],
+    "REDIS_PORT": [
+      {
+        "service": "root",
+        "file": "infrastructure\\security\\middleware\\security.ts",
+        "line": 10,
+        "required": false,
+        "default_value": null
+      }
+    ],
+    "REDIS_PASSWORD": [
+      {
+        "service": "root",
+        "file": "infrastructure\\security\\middleware\\security.ts",
+        "line": 11,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "VAR": [
+      {
+        "service": "root",
+        "file": "scripts\\validate_env.py",
+        "line": 43,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "root",
+        "file": "scripts\\validate_env.py",
+        "line": 44,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "POSTGRES_USER": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 12,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 34,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "POSTGRES_PASSWORD": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 13,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 35,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "POSTGRES_DB": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 14,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 36,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "DATABASE_URL": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 15,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\migrations\\alembic\\env.py",
+        "line": 107,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\migrations\\alembic\\env.py",
+        "line": 187,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1656,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1840,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\knowledge_graph.py",
+        "line": 34,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\scripts\\database_setup.py",
+        "line": 25,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\scripts\\verify_bills.py",
+        "line": 25,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "REDIS_URL": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 16,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "SECRET_KEY": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 17,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "NEO4J_URI": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 18,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model.py",
+        "line": 44,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\knowledge_graph.py",
+        "line": 38,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "NEO4J_USER": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 19,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 51,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model.py",
+        "line": 45,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\knowledge_graph.py",
+        "line": 39,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "NEO4J_PASSWORD": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 20,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 51,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model.py",
+        "line": 46,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\knowledge_graph.py",
+        "line": 40,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "AWS_ACCESS_KEY_ID": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 21,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "AWS_SECRET_ACCESS_KEY": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 22,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "AWS_REGION": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\docker-compose.yml",
+        "line": 23,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "POSTGRES_URI": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\migrations\\alembic\\env.py",
+        "line": 107,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\migrations\\alembic\\env.py",
+        "line": 187,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "OLLAMA_API_KEY": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model.py",
+        "line": 277,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "OLLAMA_MODEL_NAME": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 15,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 60,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 165,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 243,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 269,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 369,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 393,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 438,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 461,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 510,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 533,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 578,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 604,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 678,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 704,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 792,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 819,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 912,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 938,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1023,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1049,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1118,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1148,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1217,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1248,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1310,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1374,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1533,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1657,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1700,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1841,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1865,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 2012,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 2167,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 2342,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "OLLAMA_BASE_URL": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 793,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 913,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1024,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1119,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1218,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1311,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1658,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1842,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "LOG_LEVEL": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1335,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1494,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1661,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1822,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1987,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 2132,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 2302,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "LOG_FILE": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1340,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1499,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1666,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1827,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 1992,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 2137,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\modules\\ai_model1.py",
+        "line": 2307,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "FLASK_HOST": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\scripts\\whatsapp_bot.py",
+        "line": 175,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "FLASK_PORT": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\scripts\\whatsapp_bot.py",
+        "line": 176,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "FLASK_DEBUG": [
+      {
+        "service": "public-participation",
+        "file": "services\\public-participation\\scripts\\whatsapp_bot.py",
+        "line": 177,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "NEXT_PUBLIC_API_URL": [
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\frontend\\src\\lib\\api.ts",
+        "line": 12,
+        "required": false,
+        "default_value": null
+      }
+    ],
+    "MONGODB_URI": [
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\index.js",
+        "line": 51,
+        "required": false,
+        "default_value": null
+      }
+    ],
+    "PORT": [
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\index.js",
+        "line": 90,
+        "required": false,
+        "default_value": null
+      },
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\index.js",
+        "line": 94,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\index.js",
+        "line": 106,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "HOST": [
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\index.js",
+        "line": 91,
+        "required": false,
+        "default_value": null
+      },
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\index.js",
+        "line": 94,
+        "required": true,
+        "default_value": null
+      }
+    ],
+    "JWT_SECRET": [
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\middleware\\auth.js",
+        "line": 12,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\routes\\auth.js",
+        "line": 35,
+        "required": true,
+        "default_value": null
+      },
+      {
+        "service": "tech-blog",
+        "file": "services\\tech-blog\\src\\routes\\auth.js",
+        "line": 72,
+        "required": true,
+        "default_value": null
+      }
+    ]
+  }
+}

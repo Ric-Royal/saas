@@ -1,0 +1,201 @@
+/* Additional 90s Retro Styles */
+
+/* Blinking cursor effect */
+.blink {
+  animation: blink-animation 1s steps(2, start) infinite;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  background: #000;
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  padding: 5px 20px;
+  margin-bottom: 20px;
+}
+
+/* ASCII Art */
+.ascii-art {
+  font-family: monospace;
+  white-space: pre;
+  color: var(--accent-color);
+  text-align: center;
+  margin: 20px 0;
+}
+
+/* Visitor Counter */
+.visitor-counter {
+  background: #000;
+  color: #00ff00;
+  display: inline-block;
+  padding: 5px 10px;
+  border: 1px solid #00ff00;
+  font-family: 'Digital', monospace;
+  margin: 10px;
+}
+
+/* Best Viewed Banner */
+.best-viewed {
+  background: #ff0;
+  color: #000;
+  text-align: center;
+  padding: 5px;
+  font-weight: bold;
+  transform: rotate(-2deg);
+  margin: 20px 0;
+  animation: rainbow 5s infinite;
+}
+
+@keyframes rainbow {
+  0% { background: #ff0; }
+  20% { background: #ff69b4; }
+  40% { background: #00ff00; }
+  60% { background: #00ffff; }
+  80% { background: #ff00ff; }
+  100% { background: #ff0; }
+}
+
+/* Under Construction */
+.under-construction {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.under-construction img {
+  width: 50px;
+  height: 50px;
+  animation: rotate 2s infinite linear;
+}
+
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Retro Buttons */
+.retro-button {
+  background: #808080;
+  border-width: 2px;
+  border-style: outset;
+  border-color: #fff #000 #000 #fff;
+  padding: 5px 10px;
+  font-family: 'MS Sans Serif', sans-serif;
+  color: #000;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.retro-button:active {
+  border-style: inset;
+  border-color: #000 #fff #fff #000;
+}
+
+/* Marquee Text */
+.marquee {
+  background: #000080;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 5px 0;
+}
+
+.marquee span {
+  display: inline-block;
+  animation: marquee 15s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+/* Guestbook Form */
+.guestbook-form {
+  background: #c0c0c0;
+  border: 2px solid #808080;
+  padding: 20px;
+  margin: 20px 0;
+  color: #000;
+}
+
+.guestbook-form input,
+.guestbook-form textarea {
+  border: 2px inset #fff;
+  background: #fff;
+  color: #000;
+  font-family: 'MS Sans Serif', sans-serif;
+}
+
+/* Hit Counter */
+.hit-counter {
+  background: #000;
+  color: #f00;
+  font-family: 'Digital', monospace;
+  padding: 5px;
+  border: 1px solid #f00;
+  display: inline-block;
+  margin: 10px;
+}
+
+/* Retro Icons */
+.retro-icon {
+  width: 32px;
+  height: 32px;
+  image-rendering: pixelated;
+}
+
+/* Loading Animation */
+.loading {
+  font-family: monospace;
+  color: var(--accent-color);
+  margin: 20px 0;
+}
+
+.loading::after {
+  content: '';
+  animation: loading 1s infinite;
+}
+
+@keyframes loading {
+  0% { content: ''; }
+  25% { content: '.'; }
+  50% { content: '..'; }
+  75% { content: '...'; }
+  100% { content: ''; }
+}
+
+/* Error Message */
+.error-message {
+  background: #000080;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-family: 'MS Sans Serif', sans-serif;
+  border: 2px solid #fff;
+  margin: 20px 0;
+}
+
+/* Retro Modal */
+.retro-modal {
+  background: #c0c0c0;
+  border: 2px outset #fff;
+  padding: 2px;
+}
+
+.retro-modal-title {
+  background: #000080;
+  color: #fff;
+  padding: 2px 4px;
+  font-weight: bold;
+}
+
+.retro-modal-content {
+  padding: 10px;
+  background: #c0c0c0;
+} 

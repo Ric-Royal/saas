@@ -1,0 +1,57 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: backup-job
+  namespace: backup
+spec:
+  schedule: "0 1 * * *"  # Run daily at 1 AM
+  concurrencyPolicy: Forbid
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: backup
+            image: bitnami/mongodb-backup:latest
+            env:
+            - name: AWS_ACCESS_KEY_ID
+              valueFrom:
+                secretKeyRef:
+                  name: aws-credentials
+                  key: access-key
+            - name: AWS_SECRET_ACCESS_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: aws-credentials
+                  key: secret-key
+            - name: BACKUP_NAME
+              value: "saas-backup-$(date +%Y%m%d)"
+            command:
+            - /bin/sh
+            - -c
+            - |
+              # Backup MongoDB
+              mongodump --uri="mongodb://mongodb:27017" --gzip --archive=/backup/mongodb.gz
+              
+              # Backup Redis
+              redis-cli -h redis save
+              cp /data/dump.rdb /backup/redis.rdb
+              
+              # Upload to S3
+              aws s3 cp /backup s3://saas-backups/$(date +%Y/%m/%d)/ --recursive
+              
+              # Cleanup old backups (keep last 30 days)
+              aws s3 ls s3://saas-backups/ | while read -r line;
+              do
+                createDate=`echo $line|awk {'print $1" "$2'}`
+                createDate=`date -d"$createDate" +%s`
+                olderThan=`date -d"-30 days" +%s`
+                if [[ $createDate -lt $olderThan ]]
+                then
+                  aws s3 rm "s3://saas-backups/$line" --recursive
+                fi
+              done
+          volumes:
+          - name: backup-volume
+            emptyDir: {}
+          restartPolicy: OnFailure 

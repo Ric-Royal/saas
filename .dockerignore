@@ -1,0 +1,47 @@
+# Version control
+.git
+.gitignore
+
+# Dependencies
+**/node_modules
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.Python
+**/env
+**/venv
+**/.env
+
+# Development
+**/.vscode
+**/.idea
+**/*.log
+**/logs
+**/tmp
+
+# Build
+**/dist
+**/build
+**/.next
+**/*.egg-info
+
+# Testing
+**/coverage
+**/.coverage
+**/htmlcov
+**/.pytest_cache
+**/test-results
+
+# Documentation
+**/docs
+**/*.md
+
+# Docker
+**/Dockerfile*
+**/.dockerignore
+**/docker-compose*
+
+# System
+.DS_Store
+Thumbs.db 

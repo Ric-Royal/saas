@@ -1,0 +1,878 @@
+SP E C I A L  I SSU E
+
+, ,
+
+n a t i o n a l
+
+ c o u n c i l
+ l a w  R E PO R T I N G
+i b r a r y
+
+l
+
+ f o r
+
+Kenya Gazette Supplement No. 156 (National  Assembly Bills  No.  41)
+
+REPU BL I C  OF  K EN Y A
+
+KEN YA  GAZETTE  SUPPLEMENT
+
+NATIONAL  ASSEMBLY  BILLS,  2024
+
+NAI ROBI ,  9th  August ,  2024
+
+C O N T E N T
+
+Bill  for  Introduction into the National  Assembly —
+
+The Computer  Misuse and  Cybercrime (Amendment)  Bill,  2 0 2 4
+
+P a g e
+
+9 3 1
+
+NATIONAL  COUNCIL  FOR
+LAW  REPORTING
+
+20 SEP 202i,
+
+L I B R A R Y  A R C H I V E
+
+PRINTED AND PUBLISHED BY THE GOVERNMENT  PRINTER,  NAIROBI
+
+9 3 1
+
+T H E  C O M P U T E R  M I SU SE  A N D  C Y B E R C R I M E S
+(A M ENDM ENT )  BI L L ,  2024
+
+A  B i l l  f o r
+
+A N  A CT  of  Par liament  to  amend  the  Computer  M isuse
+and  Cyber cr imes  A ct ,  Cap  79C  and  for  connected
+p u r p o se s
+
+ENA CT ED  by  the  Parliament  of  K enya,  as  fol lows—
+
+1.
+
+ This  A ct  may  be  cited  as  the  Computer  M i suse  and
+
+Sho r t  t i tle .
+
+Cybercrimes  (A mendment)  A ct ,  2024.
+
+2.
+
+ Section
+
+ and
+ the
+Cybercrimes  A ct  (in  this  A ct  referred  to  as  “ the  principal
+A ct” ) ,  i s  amended —
+
+ Computer
+
+ M isuse
+
+ of
+
+ 2
+
+(a)  i n  the  definition  of  “ access”  by  inserting  the  w o r d s
+“ through  a  program  or  a  device  or”  immediately
+after  the  words  “ by  a  person” ;  and
+
+(b)  by  inserting  the  following  new  definitions  i n  their
+
+proper  alphabetical  sequence—
+
+“ asset”  includes  all
+ or
+
+ movable  or
+immovable,  physical
+ estates,
+easements  and  rights  whether  equitable  or  legal  in,
+over  or  out  of  property ,  choses-in-action,  money  or
+goodwill  whether  situated  in  Kenya  or  el sewhere;
+
+ property
+ virtual
+
+ and  all
+
+“ identity  theft”
+ personal
+
+ means  the  use  of
+ identification
+
+ another
+person’s
+ information
+including  the  name,  identif ication  number ,  SIM -
+card ,  bank  card ,  bank  account  i nf orm ation ,  address
+or  any  other  subscriber  information;
+
+“ SI M -card”  has  the  m eaning  assi gned  to  i t
+under  the  Kenya  Information  and  Communications
+A ct ,  1998;
+
+“ terrorist  act”  has  the  meaning  assigned  to  it
+
+under  the  Preventi on  of  T errori sm  A ct ,  20 12 ;
+
+“ virtual
+
+ account”
+
+ means  a  digital
+
+ account
+
+3.
+
+acquired  through  virtual  representation.
+ Section  6  of
+
+ i s  amended  in
+ the  principal
+subsection  ( 1)  by  inserting  the  following  new  paragraphs
+immediately  after  paragraph  (j) —
+
+ A ct
+
+A m end m en t  o f
+section  2  of  Cap
+79 C .
+
+Cap 4 l l A .
+
+ c ap  59b .
+
+A m end m ent  o f
+section  6  of  Cap
+7 9 C .
+
+9 3 2
+
+The  Comp uter  M isuse  and  Cy bercr ime  (Amendment)  Bill ,  2 0 2 4
+
+(ja)
+
+ where  it
+
+ i s  proved  that
+
+ a  websi te  or
+
+application  profnotes
+activit ies,
+ extreme  religious  and
+pornography,
+cultic  practices,  issue  k  directivie  to  fender  the
+website  of  applicafion  inaccessible,
+
+ terrorism,
+
+ i
+
+4.
+
+ Section  27  'of  the  pfift cipal  Act  is  amended  in  A m en d m ent  o f
+
+subsection  (1)  by  inse’fting  the  words  “ of  i s  likely  to  cause  vi e'”"
+them  to  cotnmit
+“ person”  appeari ng  in  paragraph  (b).
+
+ ifurnedintely  af ter
+
+ the  word
+
+ suicide”
+
+ °*^*^*'’
+
+5.
+
+ Section  30  of  the  pri ncipal  Act  is  amended--
+
+(a)  by  i nserting  the  words  “ or
+
+ makes  a  call ”
+immediately  after  the  words  “ sends  a  message” ;
+an d
+
+A m endm ent  o f
+section  30  of  Cap
+79C .
+
+(b)  by  inserting  the  words  “ of  call”  immediately  after
+
+the  words  “ recipient  of  the  message” .
+
+6.
+
+ The  principal
+
+ Act
+
+ is  amended  by  inserting  the
+
+:
+
+following  new  section  immediately  dfter  section  42— .
+ U nauth o r ized  SI M -
+card  swap.
+
+ another
+
+42A.  A  person  who  vvillfully  causes
+unauthori zed  alteration  and  unlawfully  takes
+ownership  of
+ person’s  SiM -card
+with  intent  to  commit  an  offence ^ i s  l i able  on
+conviction,  to  a  fine  not  exceeding  Kenya
+ to
+Shilling  two  hundred  thousand  or
+imprisonment  for  a  term  not  exceeding  two
+years.  Or  to  both.
+
+I nser t io n  o f  a  new
+sec t io n .4 2A  i n
+
+Gap  79G.
+
+The  Computer  Misuse and  Cybercrime (Amendment)  Bill,  2 0 2 4
+
+9 3 3
+
+M EM ORANDUM  OF  OBJECTS  AND  REASONS
+
+Statement  of  the  Obj eets  and  Reasons  for  the  Bill
+
+The principal  obj ect  of  the  Bill  is to  amend  the  Computer  M i su se  an d
+
+Cybercrimes  Act,  Cap  79C.
+
+The  Bill  seeks  to  prohibit  the  use  of  electronic  mediums  to  prom ote
+terrorism  and  extreme  religious  and  cultie  practices.  The  Bil l  in  particular
+proposes  the  following  amendments^
+
+Clause  1  provides  the  short  title  of  the  Bi ll -
+
+Clause  2  seeks  to  amend  section  2  of  the  Act  in  order  to  provide  a
+clearer  definition  of  the  term  “access”  to  a  computer  system  that
+ i s
+unauthori zed-  The  Bill  al so  introduces  new  definitions  to  align  with  the
+provi sions  of  the  A ct .
+
+Clause  3  seeks  to  amend  secti on  6  of  the  Act  to  give  the  N ati onal
+ and  Cybercri mes  Co-QrdinatiQn  Committee  an  addi ti onal
+Computer
+function  of  issuing  directives  oii  websites  and  applications  that  may  be
+rendered  inaccessible  within  the  country  where  the  website  or  application
+promotes  illegal  activities,  child  pornography,  terrori sm  and  extrem e
+religious  and  cultie  practices,
+
+Clause 4  seeks to  am.end  section  21  of  the  Act  to  expand  the  scope  of
+
+the  offence  of  cyber  harassment .
+
+Clause  5  seeks  to  amend  section  30  of  the  Act  to  expand  the  scope  of
+
+the  offence  of  phishing.
+
+Cl ause  6  seeks  to  introduce  a  new  section  42A  for  the  of f ence  of
+
+unauthorized  SIM-swap.
+
+Statement  on  the  delegation  of  legislative  powers  and  limitation  of
+fundamental  r ights  and  f reedoms,
+
+This  Bill  does  not  delegate  legisl ative  powers  nor  d oes  i t
+
+fundamental  ri ghts  and  freedoms.
+
+ l i m i t
+
+Statement  as  to  whether  the  Bill  eoneerns  county  gover nments
+
+Paragraph  13  of  Part  2  of  the  Fourth  Schedule  to  the  Constituti on
+ the  county
+
+provides  that  the  control  of  pornography  is  a  function  of
+g o v ern m en t s .
+
+Therefore,  the  Bill  concerns  county  govern ments  in  term s  of  A rti cle
+110(l )(a)  of  the  Constitution  as  it  contains  provisions  that
+ the
+functions  and  powers  of  the  county  governments  as  set  out  in  the  Fourth
+Schedule  to  the  Constitution,
+
+ af f ect
+
+9 3 4
+
+The  Computer  Misuse  and  Cybercrime  (Amendment)  Bill,  2 0 24
+
+Statement  as  to  whether  the  Bill  is  a  money  Bill  within  the  meaning  of
+A r t i cl e  1 14  of  t h e  C o n st i t u t i o n
+
+T he  enactment  of
+
+ thi s  B il l  shal l  not  occasion  addi ti onal  expenditure
+
+of  public  funds.
+
+D ated  the  28th  June,  2024 .
+
+A D EN  D A U D I  M OH A M ED ,
+
+M ember  of  Par liament.
+
+The Computer  Misuse and Cybercrime (Amendment)  Bill, 2 0 24
+
+9 3 5
+
+Section 2 of  Cap  79C which is intended to be amended-
+
+2.  I nter pr etation
+In  this Act,  unless the context  otherwise requires -
+“access”  means gaining entry  into  or  intent  to  gain  entry  by  a  person
+to a program or  data stored in a computer  system and the  person  either —
+
+(a)  alters,  modifies  or  erases  a  program
+
+to  the program or  data in  the computer  system;
+(b)  copies, transfers or  moves a program or  data to—
+
+o r
+
+data  or  any  aspect  related
+
+(i)  any  computer  system,  device
+that  in  w hi ch  it  i s  stored;  or
+
+o r
+
+storage  medium  other  than
+
+(ii)  to a different  location in the same computer  system, d ev i ce  o r
+
+storage medium in which  it  is stored;
+
+(c)  causes  it  to  be  output  from the  computer  in  which  it
+whether  by  having it  displayed or  in any  other  manner,  o r
+
+ i s  hel d ,
+
+(d)  uses it  by  causing  the  computer  to  execute  a program  or  i s  itself  a
+
+function  of  the  program;
+
+“Authority”  means the Communications Authority of  Kenya;
+“authorised  person”  means an officer  in  a law enforcement  ag enc y
+or  a cybersecurity  expert  designated by  the Cabinet  Secretary  responsible
+for  matters  relating  to  national  security  by  notice  in  the  G azette  f or  the
+purposes of  Part  III  of  this Act;
+
+“blockchain  technology”  means  a  digitized,  decentralized,  public
+
+ledger  of  all  crypto currency  transactions;
+
+“Cabinet  Secretary”  means the  Cabinet  Secretary  responsible  f o r
+
+matters  relating  to  internal  security ;
+
+“Central  Authority”  means the  Office  of  the  Attorney  General  and
+
+Department  of  Justice;
+
+“ C o m m i t t ee”
+
+ m ean s
+
+the  National
+
+ Computer
+
+ and  Cybercrimes
+
+Coordination  Committee established  under  section  4;
+
+“ computer
+
+ whether
+ data  storage  medium
+physical  or  virtual,  containing  or  designed  to  contain,  or
+ enabl ing  or
+designed to enable storage of data, whether available in  a  single  or
+distributed  form for  use by  a computer,  and  from which  data  i s  capable  of
+being  reproduced;
+
+device,
+
+m e a n s
+
+ a
+
+9 3 6
+
+The  Computer  Misuse and  Cybercrime (Amendment)  Bill,  2 0 2 4
+
+“computer  system”  means  a  physical  or  virtual  device,  o r
+
+ o f
+associated  physical  or  virtual  devices,  which  use  electronic,  magnetic,
+optical  or  other  technology,  to  perform  logical,  arithmetic  storage  and
+communication  functions  on  data  or  which  perform  control  f u n cti o n s
+physical  or  virtual  devices  including  mobile  devices  an d  ref er ence
+computer  system  includes a reference  to  part  of  a computer  sy stem ;
+
+ a  se t
+
+t o  a
+
+o n
+
+content  data”  means  the  substance,  its  meaning  or  purport  o f
+
+specified  communication;
+
+ a
+
+“ critical  information  infrastructure  system  or  data”  m e a n s
+information  system,  program or  data that  supports or  performs  a  function
+with respect  to a national  cri tical  information infrastructure;
+
+ a n
+
+“critical  infrastructure”  means  the  processes,  systems,  f acil ities,
+technologies,  networks,  assets  and  services  essentials  to the health, safety[
+security  or  economic  well-being  of  Kenyans  and  the  effective  functioning
+of  Government;
+
+cybersquatting”  means  the  acquisition  of  a  domain  name  o v e r
+ t h e
+internet  in  bad  faith  to  profit,  mislead,  destroy  reputation,  or  depri ve
+another  from  registering  the  same,  if  the  domain  name  i s  -
+
+(a)  similar,  identi cal  or  confusingly  similar  to  an  exi sting  trademark
+registered  with  the  appropriate government  agency  at  th e  ti m e  o f
+regi stration;
+
+(b)  identical  or  in  any  way  similar  with  the  name  of  a  person  other
+
+than  the registrant, in  case  of  a personal  name;  or
+
+(c)  acquired  without  right  or  intellectual  property  interests  in  it;
+'data”  means  any  representation  of  facts,  information  or  concepts  i n
+a form  suitable for  processing  in  a computer  system,  including  a  program
+suitable to cause a computer  system to perform a functi on;
+
+ non-public  transmissions  of
+
+“ inter ception means  the  monitoring,
+
+ viewing  or
+ data  to  or  from  a  computer
+recording  of
+system  over  a  telecommunications  system,  and  includes,  i n  r el ati o n  to  a
+function  of  a computer  system,  listening  to  or  recording  a  f uncti on  of
+ a
+computer  system  or  acquiring  the  substance,  its  meaning  or  purport  Of
+such  function;
+
+ modifying,
+
+“ i n ter f er en ce”  means any  impairment  to the confidentiality, integrity
+or  availability  ot  a  computer  system,  or  any  program  o r
+ d ata  o n  a
+computer  system,  or  any  act  in  relation  to  the  corhputer  system  which
+impairs the operation of  the computer  system, program or  d ata;
+
+Computer  Misuse and Cybercrime (Amendment)  Bill, 2024
+
+9 3 7
+
+“mobile money”  means electronic  transfer  of  funds between  b an k s
+or  payment  of  bills  by  mobile
+
+or  accounts  deposit  or  withdrawal  of  funds
+phone;
+
+a
+
+national  critical  information  infrastructure”  means a  v i tal  v ir tu al
+
+asset  facility, system, network or process whose incapacity, d estr u cti on
+modification  would  have—
+
+o r
+
+(a)  a debilitating impact  on the availability,  integrity  or  delivery  of
+essential  services  including  those  services,  whose  integrity ,  if
+compromised, could  result  in  significant  loss of  life
+or  casual ti es;
+
+o r
+
+(b)  Significant  impact  on  national  security,  national  d ef en se
+
+functioning  of  the  state;
+
+o r
+
+ th e
+
+‘network”  means  a  collection  of  hardware  components  an d
+computers  interconnected  by  communications  channels  that  allow  sharina
+ *
+of  resources  and  information;
+
+“password”  means  any  data  by  which  a  computer  service  o r
+
+computer  system is capable of  being obtained or  used;
+
+ a
+
+“P®™ogfaphy”  includes  the  representation ^ in  books,  m agazi nes,
+photographs,  films,  and  other  media,  telecommunication  ap p ar atu s  o f
+scenes  of  sexual  behaviour  that  are  erotic  or  lewd  and  are  designed  to
+arouse  sexual  interest;
+
+ ^
+
+“premises”  includes land,  buildings,  movable structures,  a  phy si cal
+or  yirtu^  space in which data is maintained, managed, backed  up  remotely
+and made available to users over  a network, vehicles, vessel s  or  aircraf t;
+
+“program”  means data representing instructions or  statements th at
+If  executed in a computer  system,  causes the computer  system to perform’
+a  function  and  reference  to  a program  includes  a reference  to  a  p ar t
+ a
+ ^
+program;
+
+ p
+
+ o f
+
+ ,
+
+“requested  State”  means a state being  requested  to pr ovide  l egal
+
+assistance  under  the  terms  of  this  Act;
+
+ °
+
+“ r equesting  State means  a  state  requesting  for  legal  assistance  and
+may  for  the  purposes  of  this Act  include  an  international  entity  to  which
+Kenya  is  obligated;
+
+“seize”  with respect  to a program or  data includes t o  —
+(a)  secure a computer  system or  part  of  it  or  a device;
+(b)  make and retain a digital  image or  secure a copy of  any  program
+
+or  data, including using an on-site equipment;
+
+9 3 8
+
+The Computer Misuse and Cybercrime (Amendment)  Bill. 2 0 2 4
+
+(c)  render  the computer  system inaccessible;
+(d)  remove data in the accessed computer  system; or
+(e)  obtain output  of  data from a computer  system;
+“ ser vice  pr ovider ”  means
+(a)  a public  or  private entity  that  provides to  users of  its  servi ces  the
+
+means to communicate by  use of  a computer  system;  and
+
+(b)  any other  entity that  processes or  stores computer  data  on  behal f
+
+of  that  entity  or  its users;
+
+“ subscriber  information”  means  any
+
+information  contained  in  the
+ .
+form  of  data  or  any  form  that  is  held  by  a  service  provider,  relating  to
+subscribers of  its services, other  than traffic data or  content  data,  by  which
+can  be  establ i shed  —
+
+ ,  *
+
+(a)  the  type
+
+of  communication  service used,  the technical  provisions
+
+taken  thereto  and  the  period  of  service;
+
+(b)  the  subscriber's  identity,  postal,  geographic  location  el ectro n i c
+mail  address,  telephone  and  other  access  number,  billing  an d
+ the  service
+information,  available  on  the  basis  of
+payment
+agreement  or  arrangement;  or
+
+(c)  any  other  information  on  the  site  of  the  installation  o
+telecommunication  apparatus, available on the basis o f  th e  ser v i ce
+agreement  or  arrangement;
+
+“telecommunication apparatus”  means an apparatus constructed o r
+adapted  for  use  in  transmitting  anything  which  is  transmissible  by  a
+telecommunication  system or  in  conveying  anything  which  i s  tr an sm i tted
+through  such  a  system;
+
+“telecommunication  system”  means  a  system  for  the  conveyance
+through  the  use  of  electric,  magnetic,  electro-magnetic,  el ectro-chemi cal
+
+o r
+
+electro-mechanical  energy ,  of —
+
+(a)  speech, music or  other  sounds;
+
+(b)  vi sual  images;
+
+(c)  data;
+(d) signals serving  for  the impartation,  whether  as betw een  per sons
+and  persons,  things  and  things  or  persons  and  things,  o f
+matter  otherivise than in the form of  sound, visual  images  or  data;
+
+o r
+
+The  Computer  Misuse  and  Cybercrime  (Amendment)  Bill,  2 0 24
+
+9 3 9
+
+(e)  signals  serving  for  the  activation  or  control
+
+ machinery  or
+apparatus  and  includes  any  cable  for  the  distribution  of  anything
+falling  within  paragraphs  (a),  (b),  (c)  or  (d);
+
+ of
+
+“ tr affi c  data”  means  computer  data  relating  to  a  communication  by
+means  of  a  computer  system,  generated  by  a  computer  system  that  formed
+ communication,  indicating  the  co m m u n i c ati o n 's
+a  part  in  the  chain  of
+origin,
+ the  type  of
+underlyi ng  service;  and
+
+ duration  or
+
+ destination,
+
+ route,
+
+ time,
+
+ date,
+
+ size,
+
+“ t r u st  acco u n t s”
+
+holding  funds  in  relation  to  mobile  money  on  behalf
+depositors.
+
+ m ean s  an  acc o u n t  w h er e  a  b an k  o r  tr u st  company  i s
+ the  public
+
+ of
+
+Section  6  of  Cap  79C  which  is  intended  to  be  amended—
+
+6 .
+
+ F u n ct i o n s  o f  t h e  C om m i t t ee
+
+( 1)  The  Commi ttee  shall  —
+
+(a)  advise  the  Government  on  security  related  aspects  touching  on
+matters  relating  to  blockchain  technology ,  critical  i nf rastructure,
+mobile  money  and  trust  accounts;
+
+(b)  advise  the  National
+
+ Security  Council
+
+ on  computer
+
+ an d
+
+cybercrimes;
+
+(c)  co-ordinate  national
+
+ security  organs  i n  matters  relating  to
+
+computer  and  cybercrimes;
+
+(d)  recei ve  and  act  on  reports  relating  to  computer  and  cybercrimes;
+
+(e)  develop  a  framework  to  f acilitate  the  avai lability ,  integrity  and
+conf idential ity  of
+ information  infrastructure
+ national
+including  telecommunications  and  information  systems  of  K enya;
+
+ critical
+
+(f)  co-ordinate  collection  and  analysis  of  cyber  threats,  and  response
+to  cyber  incidents  that  threaten  cyberspace  belonging  to  K eny a,
+whether  such  threats  or  incidents  of
+ computer  and  cybercrime
+occur  withi n  or  outside  Kenya;
+
+(g)  co-operate  with  computer
+
+ response  '.earn s  an d  o th er
+ incident
+relevant  bodies,  locall y  and  inter national ly  on  response  to  th reat s
+of  computer  and  cybercrime  and  i ncidents;
+
+(h)  establi sh  codes  of
+
+ cyber-security  practice  and  st an d ard s  o f
+performance  for  implementation  by  owners  of  critical  n a t i o n a l
+inf orm ation  i nf rastructure;
+
+(i)  develop  and  manage  a  national
+
+ public  key  infrastructure
+
+f ramew ork ;
+
+9 4 0
+
+The  Computer  Misuse  and  Cybercrime  (Amendment)  Bill,  2 0 2 4
+
+(i)  develop  a  framework  for  training  on  prevention,  detecti on  and
+mitigation  of  computer  and  cybercrimes  and  matters  connected
+thereto ;  and
+
+(k)  perform  any  other  function  conferred  on  it  by  this  A ct  or  any
+
+o th er  w r i tten  l aw .
+
+(2)  Subj ect  to  the  provi si ons  of  this  Act,  the  Commi ttee  shall  regulate
+
+its  own  procedure.
+
+Section  27  of  Cap  79C  which  is  intended  to  be  amended—
+
+27.  Cyber  har assment
+
+( 1)  A  person  who,  individually  or
+
+ wi th  other  persons,  wilf ull y
+communicates,  either  directly  or  i ndirectly,  with  another  p er so n  o r  an y o ne
+known  to  that  person,  commits an  offence,  if  they  know  or  ought  to  know
+t h a t  t h e i r  c o n d u ct —
+
+(a)  is  likely  to  cause  those  persons  apprehension  or  f ear  of
+to  them  or  damage  or  loss  on  that  persons'  property;  o r
+
+ v i o l en ce
+
+(b)  detrimentally  affects  that  person;  or
+
+(c)  is  in  whole  or  part,  of  an  indecent  or  grossly  of f ensi ve  nature  and
+
+affects  the  person.
+
+(2)  A  person  who  commits  an  offence  under  subsection  ( 1)  i s  li able,
+ to
+
+on  conviction,  to  a  fine  not  exceeding  twenty  million  shill ings  or
+impri sonment  f or  a  term  not  exceeding  ten  years,  or  t o  b o th .
+
+(3)  A  person  may  appl y  to  Court  for  an  order  compelling  a  p er so n
+
+charged  with  an  offence  under  subsecti on  ( 1)  to  refrain  f ro m - -
+
+(a)  engaging  or  attempting  to  engage  in;  or
+
+(b)  enlisting  the  help  of
+
+ another
+
+ person  to  engage  in,
+
+ any
+
+communication  complained  Of  under  subsection  (1).
+
+(4)  The  Court —
+
+(a)  may  grant  an  interim  order;  and
+
+(b)  shall
+
+ hear  and  determine  an  application  under  subsection  (4)
+
+within  fourteen  days.
+
+(5)  An  intermediary  may  apply  for  the  order  under  subsection  (4)  on
+
+behalf  of  a  compl ainant  under  thi s  section .
+
+(6)  A  person  may  apply  for  an  order  under  hi s  section  ou t si d e  cou r t
+
+working  hours.
+
+The Computer  Misuse and  Cybercrime (Amendment)  Bill, 2 02 4
+
+9 4 1
+
+(7)  The Court  may  order  a service provider  to provide any  subscriber
+information in its possession for  the purpose of  identifying a  per son  w hose
+conduct  is  complained  of  under  this  section.
+
+(8)  A  person  who  contravenes  an  order  made  under  this  sec ti o n
+commits  an  offence  and  i s  liable^ on  conviction  to  a  fine not  exceeding one
+million  shillings  or  to  impri sonment  for  a  term  not  exceedi ng  si x  months
+ ,
+or  to  both.
+
+ b
+
+Section  30  of  Cap  79C which  is  intended  to  be amended—
+30.  Phishing
+A  person  who  Creates  or  operates  a  website  or  sends  a  m essag e
+through  a  computer  system  with  the  intention  to  induce  th e  u ser
+ a
+website  or  the recipient  of  the message to  disclose personal  i nf orm ati on
+for  an  unlawful  purpose  or  to  gain  unauthorized  access  t o a  co m p u ter
+system,  commits  an  offence  and  is  liable  upon  conviction  t o  a  f i ne  not
+exceeding three hundred thousand shillings or  to  imprisonment  f or  a  ter m
+not  exceeding  three  years  or  both.
+
+ o f
+
+Section  42  of  Cap  79C  which  is  intended  to  be dmended—
+
+42.  Aiding or  abetting in  the commission  of  an  offence
+(1)  A  person  who  knowingly  and  Willfully  aids  or  abets  t h e
+commission  of  any  offence  under  this  Act  commits  an  of f ence  and  i s
+liable,  on  conviction,  to  a fine not  exceeding  seven  million  shillings  or  to
+imprisonment  for  a terrh not  exceeding four  years, o r  to  b o th .
+
+(2)  A  person  who  knowingly  and  willfully  attempts  to  c o m m i t
+ an
+offence or  does any  act  preparatory  to  or  in furtherance of  the  com m i ssi on
+of  any  offence  under  this  Act,  commits  an  offence  and  i s  li able,  ci:
+convktion,  to  a  fine  not  exceeding  seven  million  shillings  o r
+imprisonment  for  a term not  exceeding four  years, or  to  b o th .
+
+o n
+
+ t o
+
+
