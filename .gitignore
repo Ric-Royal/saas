@@ -129,3 +129,10 @@ data/neo4j/
 neostore.*
 neo4j-data/
 graph.db/
+
+# Ignore all data directories
+/data/
+
+# Alternatively, ignore specific file patterns
+*.db
+*.log
