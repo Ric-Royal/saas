@@ -155,3 +155,19 @@ graph.db/
 */civilbot-mongo/
 */tech-blog-db/
 */tech-blog-mongo/
+
+# Database transaction logs and journals
+data/neo4j/transactions/**/*
+data/*/journal/**/*
+data/*/pg_wal/**/*
+data/civilbot-db/**/*
+data/tech-blog-db/**/*
+data/civilbot-mongo/**/*
+data/tech-blog-mongo/**/*
+data/pp-db/**/*
+
+# Database files
+*.wt
+*WiredTiger*
+*.0
+*.log
