@@ -134,5 +134,5 @@ graph.db/
 /data/
 
 # Alternatively, ignore specific file patterns
-*.db
+*.db.0
 *.log
