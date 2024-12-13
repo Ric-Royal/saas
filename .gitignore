@@ -122,3 +122,10 @@ models/
 *.xls
 *.xlsx
 *.parquet
+
+# Neo4j
+data/neo4j/
+*.transaction.db*
+neostore.*
+neo4j-data/
+graph.db/
