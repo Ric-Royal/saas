@@ -136,3 +136,22 @@ graph.db/
 # Alternatively, ignore specific file patterns
 *.db.0
 *.log
+
+# MongoDB
+*/journal/
+*/WiredTiger*
+*/diagnostic.data/
+*/collection-*-*.wt
+*/index-*-*.wt
+*/mongod.lock
+*/storage.bson
+*/_mdb_catalog.wt
+*/sizeStorer.wt
+*/WiredTiger.lock
+*/WiredTiger.turtle
+*/WiredTiger.wt
+*/mongodb.log*
+*/civilbot-db/
+*/civilbot-mongo/
+*/tech-blog-db/
+*/tech-blog-mongo/
