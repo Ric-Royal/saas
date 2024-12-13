@@ -37,6 +37,16 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.next/
+out/
+build/
+dist/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+!.env.template
 
 # IDE
 .idea/
@@ -47,4 +57,68 @@ yarn-error.log*
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Docker
+.docker/
+docker-volumes/
+
+# Coverage reports
+coverage/
+.coverage
+htmlcov/
+
+# Cache
+.cache/
+.pytest_cache/
+.eslintcache
+.parcel-cache
+
+# Media and Static files
+media/
+static/
+public/uploads/
+uploads/
+
+# Dependencies lock files (keep only the ones you use)
+# package-lock.json
+# yarn.lock
+# poetry.lock
+
+# Large files and binaries
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.iso
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
+*.jar
+*.war
+*.ear
+*.sar
+*.class
+
+# ML Models and Data
+*.pkl
+*.h5
+*.model
+*.joblib
+datasets/
+models/
+*.csv
+*.xls
+*.xlsx
+*.parquet
